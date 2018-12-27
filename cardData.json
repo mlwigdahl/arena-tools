@@ -1,0 +1,94 @@
+
+{
+    "Island": {
+        "type": "land",
+        "color": "",
+        "manaType": [ "U" ],
+        "cost": "0",
+        "subtypes": ["basic land", "island"]
+    },
+    "Chart A Course": {
+        "type": "sorcery",
+        "color": "U",
+        "manaType": [ ],
+        "cost": "1U",
+        "subtypes": []
+    },
+    "Curious Obsession": {
+        "type": "enchantment",
+        "color": "U",
+        "manaType": [ ],
+        "cost": "U",
+        "subtypes": ["aura"]
+    },
+    "Dive Down": {
+        "type": "instant",
+        "color": "U",
+        "manaType": [ ],
+        "cost": "U",
+        "subtypes": []
+    },
+    "Essence Scatter": {
+        "type": "instant",
+        "color": "U",
+        "manaType": [ ],
+        "cost": "1U",
+        "subtypes": []
+    },
+    "Merfolk Trickster": {
+        "type": "creature",
+        "color": "U",
+        "manaType": [ ],
+        "cost": "1U",
+        "subtypes": ["merfolk", "wizard"]
+    },
+    "Mist-Cloaked Herald": {
+        "type": "creature",
+        "color": "U",
+        "manaType": [ ],
+        "cost": "U",
+        "subtypes": ["merfolk", "rogue"]
+    },
+    "River Sneak": {
+        "type": "creature",
+        "color": "U",
+        "manaType": [ ],
+        "cost": "1U",
+        "subtypes": ["merfolk", "rogue"]
+    },
+    "Siren Stormtamer": {
+        "type": "creature",
+        "color": "U",
+        "manaType": [ ],
+        "cost": "U",
+        "subtypes": ["siren", "pirate", "wizard"]
+    },
+    "Spell Pierce": {
+        "type": "instant",
+        "color": "U",
+        "manaType": [ ],
+        "cost": "U",
+        "subtypes": []
+    },
+    "Exclusion Mage": {
+        "type": "creature",
+        "color": "U",
+        "manaType": [ ],
+        "cost": "2U",
+        "subtypes": ["human", "wizard"]
+    },
+    "Tempest Djinn": {
+        "type": "creature",
+        "color": "U",
+        "manaType": [ ],
+        "cost": "UUU",
+        "subtypes": ["djinn"]
+    },
+    "Wizard's Retort": {
+        "type": "instant",
+        "color": "U",
+        "manaType": [ ],
+        "cost": "1UU",
+        "subtypes": []
+    }
+}
